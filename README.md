@@ -1,4 +1,3 @@
-```markdown
 # Binary Search
 
 Binary Search is an efficient search algorithm used to find an element in a **sorted list**.
@@ -48,8 +47,5 @@ If we search for `7`:
 
 Binary Search runs in:
 
-```
-
 O(log n)
 
-```
